@@ -2,4 +2,8 @@ karibasappakl
 acharya
 bengalore 
 india
+<<<<<<< Updated upstream
 country
+=======
+bharat
+>>>>>>> Stashed changes
