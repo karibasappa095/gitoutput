@@ -3,8 +3,11 @@ acharya
 bengalore 
 india
 countries
+<<<<<<< HEAD
 world of heritage
 culture
 manner
+=======
+>>>>>>> parent of 91ba942 (south east commit in master)
 
 
