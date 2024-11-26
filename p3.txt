@@ -3,3 +3,4 @@ bengalore
 karnataka
 davanagere
 channagiri
+taluk
