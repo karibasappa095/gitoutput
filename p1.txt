@@ -5,9 +5,12 @@ india
 countries
 <<<<<<< HEAD
 world of heritage
+<<<<<<< HEAD
 culture
 manner
 =======
 >>>>>>> parent of 91ba942 (south east commit in master)
+=======
+>>>>>>> parent of 959ba72 (first north commit in master)
 
 
