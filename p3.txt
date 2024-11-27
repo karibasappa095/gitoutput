@@ -1,10 +1,9 @@
 kabbaddi
 bengalore
-<<<<<<< HEAD
-=======
 karnataka
-<<<<<<< HEAD
+karnataka
 davanagere
->>>>>>> parent of 75c6eb8 (first p3txt commit in master)
-=======
->>>>>>> parent of 4103c88 (second p3txt commit in master)
+channagiri
+taluk
+feature_branch
+commit
