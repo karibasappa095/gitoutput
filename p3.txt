@@ -1,2 +1,7 @@
 kabbaddi
 bengalore
+<<<<<<< HEAD
+=======
+karnataka
+davanagere
+>>>>>>> parent of 75c6eb8 (first p3txt commit in master)
