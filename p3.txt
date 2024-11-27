@@ -1,9 +1,15 @@
 kabbaddi
 bengalore
 karnataka
+<<<<<<< HEAD
+davanagere
+channagiri
+taluk
+=======
 karnataka
 davanagere
 channagiri
 taluk
 feature_branch
 commit
+>>>>>>> master
